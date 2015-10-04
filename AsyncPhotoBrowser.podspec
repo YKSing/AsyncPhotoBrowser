@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
 
   s.author       = { "Sihao Lu" => "lsh32768@gmail.com" }
   
-  s.platform     = :ios, "9.0"
+  s.platform     = :ios, "8.0"
 
   s.source       = { :git => "https://github.com/DJBen/AsyncPhotoBrowser.git", :tag => "#{s.version}" }
 
